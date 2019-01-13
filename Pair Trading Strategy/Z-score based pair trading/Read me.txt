@@ -1,2 +1,3 @@
 Z-score can be interpreted as a measure of dispersion. 
 This python notebook finds n-maximum pairs for potential pair trading based on z-score.
+Note: The notebook generates fake data for use.
